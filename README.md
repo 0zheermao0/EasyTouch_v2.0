@@ -3,7 +3,7 @@
 
 #### 安装教程
 
-git clone https://gitee.com/klaus125/easy-touch.git
+git clone https://github.com/0zheermao0/EasyTouch_v2.0.git
 
 
 #### 参与贡献
